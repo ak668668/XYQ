@@ -10,10 +10,10 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "初秋语",
+          "name": "cqlt",
           "type":"0",
           "pass": true,
-          "url":"https://git.886.be/https://raw.githubusercontent.com/ak668668/tv/main/iptv.txt",
+          "url":"https://git.886.be/https://raw.githubusercontent.com/ak668668/tv/main/cqlt.json",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
